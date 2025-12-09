@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Nicolas Siqueira
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 
 
